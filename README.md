@@ -91,13 +91,3 @@ Gruver et al., 2024
 ## Acknowledgments
 
 This project adapts the Training-Free Guidance (TFG) framework specifically for image style transfer, modifying the original approach to work with content-preserving style application.
-
-## Contact
-
-[Your Name]  
-[Your Email]  
-[Your GitHub Profile]
-
----
-
-**Note**: This is a research implementation. For production use, consider optimization and additional error handling.
