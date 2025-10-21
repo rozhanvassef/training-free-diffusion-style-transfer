@@ -1,7 +1,3 @@
-# training-free-diffusion-style-transfer
-Style transfer task leveraging pre-trained diffusion models using tarining free guidance method
-
-
 # Training-Free Style Transfer with Guided Diffusion
 
 Transfer artistic styles to images using training-free guidance in pre-trained diffusion models. This project adapts the training-free guidance framework to perform style transfer by starting from an input image and applying a target artistic style without any model fine-tuning.
