@@ -83,7 +83,7 @@ Edit `scripts/style_transfer.sh` to specify:
 
 This implementation is based on the paper:
 
-**Training-Free Guidance for Discrete Diffusion Models for Molecular Generation**  
+**TFG: Unified Training-Free Guidance for Diffusion Models**  
 Gruver et al., 2024  
 [arXiv:2409.15761](https://arxiv.org/abs/2409.15761)
 
